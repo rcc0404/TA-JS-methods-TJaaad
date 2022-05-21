@@ -22,16 +22,30 @@ Example:
    - Return: character at specific index in the string (string data type)
    - Example:
      ```js
-     let name = 'Arya Stark';
+     let name = "Arya Stark";
      name.charAt(2); //"y"
-     let sentance = 'A quick brown fox jumped over a lazy dog';
+     let sentance = "A quick brown fox jumped over a lazy dog";
      sentance(4); // "i"
-     let houseName = 'Starks';
+     let houseName = "Starks";
      houseName.charAt(0); // "S"
      ```
    - `charAt` accepts a index (number data type) and return the character on that index in the string.
 
 2. `toUpperCase`
+
+- Parameter: (index) defaults to 0 - (number data type)
+  - Return: character at specific index in the string (string data type)
+  - Example:
+    ```js
+    let name = "Arya Stark";
+    name.charAt(2); //"y"
+    let sentance = "A quick brown fox jumped over a lazy dog";
+    sentance(4); // "i"
+    let houseName = "Starks";
+    houseName.charAt(0); // "S"
+    ```
+  - `charAt` accepts a index (number data type) and return the character on that index in the string.
+
 3. `toLowerCase`
 4. `trim`
 5. `trimEnd`
