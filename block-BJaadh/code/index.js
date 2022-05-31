@@ -9,7 +9,7 @@ While using methods like push, pop, sort etc it mutates the original array.
 Clone the array before using sort method: [...arr]
 
 */
-
+alert
 // - Find the index of `101` in numbers
 
 // - Find the last index of `9` in numbers
