@@ -16,7 +16,9 @@ let persons = [
 // NOTE: Use reduce method whereever you can to solve this exercise:
 
 // Find the average grade
-
+function reduce(acc, iv) {
+  
+}
 // Find the average grade of male
 
 // Find the average grade of female
